@@ -3,3 +3,6 @@ It creates the ".git" directory and indicates that this directory is now related
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area allow us to choose precisely what files we want to put in a commit. If, for example, you have 2 unrelated bugs in differents files but you want to correct both of them nearly at the same time to see how it works then, you correct those 2 and then commit twice, first for 1 bug an then for the other.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can choose what to add or not to the staging area.
