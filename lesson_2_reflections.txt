@@ -12,3 +12,6 @@ If you can implement an experimental feature or test something new that you are 
 
 How do the diagrams help you visualize the branch structure?
 The graph gives us a better understanding seeing quickly where are created the new branches and all their relative commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It is a new commit merging the modifications made in both branches comparatively to the ancestor node of the concerned branches. We represent it this way because it unifies the 2 or more branches concerned.
