@@ -9,3 +9,6 @@ You can choose what to add or not to the staging area.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 If you can implement an experimental feature or test something new that you are not so sure about. Having a branch really separated from the master helps us to experiment without fearing breaking something that already works.
+
+How do the diagrams help you visualize the branch structure?
+The graph gives us a better understanding seeing quickly where are created the new branches and all their relative commits.
