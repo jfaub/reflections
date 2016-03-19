@@ -15,3 +15,6 @@ The graph gives us a better understanding seeing quickly where are created the n
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It is a new commit merging the modifications made in both branches comparatively to the ancestor node of the concerned branches. We represent it this way because it unifies the 2 or more branches concerned.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging allows us ta save a lot of time. It may introduce some bugs in very very rare cases.
